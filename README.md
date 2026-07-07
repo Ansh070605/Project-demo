@@ -1,3 +1,3 @@
 # Project-demo
-my first repository
+my first repo;
 I am Ansh Jaiswal
